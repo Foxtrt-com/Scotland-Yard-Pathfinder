@@ -3,7 +3,7 @@ from node_class import Node
 
 #TODO: Add Node relationship list (Taxi, Bus and Underground)
 nodes = [
-    Node(1, (), (), ()),
+    Node(1, (8, 9), (58, 46), (46)),
     Node(2, (), (), ()),
     Node(3, (), (), ()),
     Node(4, (), (), ()),
